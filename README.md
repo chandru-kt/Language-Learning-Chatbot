@@ -42,8 +42,8 @@ This project is a terminal-based language learning chatbot powered by Google's G
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/language-chatbot.git
-cd language-chatbot
+git clone https://github.com/chandru-kt/language-learning-chatbot.git
+cd language-learning-chatbot
 ```
 
 2. **Install dependencies**
